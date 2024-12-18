@@ -50,4 +50,7 @@
         super.imprimir();
         System.out.println("Estado de la cuenta: " + (activa ? "Activa" : "Inactiva"));
     }
+    {
+        System.out.println("Marjorie");
+    }
 }
