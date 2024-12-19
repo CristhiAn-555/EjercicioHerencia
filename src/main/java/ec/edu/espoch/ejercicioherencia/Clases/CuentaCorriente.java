@@ -4,10 +4,7 @@
  */
 package ec.edu.espoch.ejercicioherencia.Clases;
 
-/**
- *
- * @author PERSONAL
- */
+
 public class CuentaCorriente extends CuentaBancaria {
     private float sobregiro = 0;
 
